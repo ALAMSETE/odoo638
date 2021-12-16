@@ -1,0 +1,3 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_odoo638_camiones638_usuario,odoo638.camiones638.usuario,model_odoo638_camiones638,odoo638.group_odoo638_usuario,1,0,0,0
+access_odoo638_camiones638_administrador,odoo638.camiones638.administrador,model_odoo638_camiones638,odoo638.group_odoo638_administrador,1,1,1,1_
